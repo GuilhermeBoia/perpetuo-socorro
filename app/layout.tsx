@@ -32,9 +32,11 @@ export const metadata: Metadata = {
         width: 1200,
         height: 630,
         alt: "Paróquia Nossa Senhora do Perpétuo Socorro - João Pessoa",
+        type: "image/png",
       },
     ],
     locale: "pt-BR",
+    siteName: "Paróquia Nossa Senhora do Perpétuo Socorro",
   },
 };
 
