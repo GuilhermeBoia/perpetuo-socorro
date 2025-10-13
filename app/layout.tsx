@@ -18,8 +18,19 @@ const lora = Lora({
 
 export const metadata: Metadata = {
   title: "Paróquia Nossa Senhora do Perpétuo Socorro - João Pessoa",
-  description: "Paróquia Nossa Senhora do Perpétuo Socorro, João Pessoa - PB. Acompanhe nossa programação semanal de missas, confissões e celebrações.",
+  description: "Paróquia Nossa Senhora do Perpétuo Socorro, João Pessoa - PB. Acompanhe nossa programação semanal.",
   keywords: ["paróquia", "igreja católica", "joão pessoa", "perpétuo socorro", "missa", "católica"],
+  openGraph: {
+    type: "website",
+    url: "https://perpetuosocorrojp.vercel.app/",
+    title: "Paróquia Nossa Senhora do Perpétuo Socorro - João Pessoa",
+    description: "Paróquia Nossa Senhora do Perpétuo Socorro, João Pessoa - PB. Acompanhe nossa programação semanal.",
+    images: [
+      {
+        url: "https://perpetuosocorrojp.vercel.app/og-image.png",
+      },
+    ],
+  },
 };
 
 export default function RootLayout({
