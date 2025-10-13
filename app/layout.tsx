@@ -23,7 +23,7 @@ export const metadata: Metadata = {
   keywords: ["paróquia", "igreja católica", "joão pessoa", "perpétuo socorro", "missa", "católica"],
   openGraph: {
     type: "website",
-    url: "https://perpetuosocorrojp.com.br/",
+    url: "https://perpetuosocorrojp.com.br",
     title: "Paróquia Nossa Senhora do Perpétuo Socorro - João Pessoa",
     description: "Paróquia Nossa Senhora do Perpétuo Socorro, João Pessoa - PB. Acompanhe nossa programação semanal.",
     images: [
