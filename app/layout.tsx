@@ -3,6 +3,7 @@ import { Libre_Baskerville, Lora } from "next/font/google";
 import "./globals.css";
 import Header from "@/components/header";
 import Footer from "@/components/footer";
+import { SpeedInsights } from "@vercel/speed-insights/next";
 
 const libreBaskerville = Libre_Baskerville({
   variable: "--font-libre",
@@ -49,6 +50,7 @@ export default function RootLayout({
       >
         <Header />
         {children}
+        <SpeedInsights />
         <Footer />
       </body>
     </html>
