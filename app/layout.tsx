@@ -27,12 +27,13 @@ export const metadata: Metadata = {
     description: "Paróquia Nossa Senhora do Perpétuo Socorro, João Pessoa - PB. Acompanhe nossa programação semanal.",
     images: [
       {
-        url: "https://perpetuosocorrojp.com.br/og-image.jpg",
+        url: "https://perpetuosocorrojp.com.br/og-image.png",
         width: 1200,
         height: 630,
         alt: "Paróquia Nossa Senhora do Perpétuo Socorro - João Pessoa",
       },
     ],
+    locale: "pt-BR",
   },
 };
 
