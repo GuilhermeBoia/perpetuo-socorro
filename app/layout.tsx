@@ -22,12 +22,15 @@ export const metadata: Metadata = {
   keywords: ["paróquia", "igreja católica", "joão pessoa", "perpétuo socorro", "missa", "católica"],
   openGraph: {
     type: "website",
-    url: "https://perpetuosocorrojp.vercel.app/",
+    url: "https://perpetuosocorrojp.com.br/",
     title: "Paróquia Nossa Senhora do Perpétuo Socorro - João Pessoa",
     description: "Paróquia Nossa Senhora do Perpétuo Socorro, João Pessoa - PB. Acompanhe nossa programação semanal.",
     images: [
       {
-        url: "https://perpetuosocorrojp.vercel.app/og-image.png",
+        url: "https://perpetuosocorrojp.com.br/og-image.jpg",
+        width: 1200,
+        height: 630,
+        alt: "Paróquia Nossa Senhora do Perpétuo Socorro - João Pessoa",
       },
     ],
   },
