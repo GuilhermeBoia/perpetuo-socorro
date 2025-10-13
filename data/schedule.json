@@ -1,0 +1,137 @@
+{
+  "week": [
+    {
+      "day": "Segunda-feira",
+      "dayOfWeek": 0,
+      "backgroundImage": "maria-e-jesus.jpg",
+      "events": [
+        {
+          "time": "19h00",
+          "type": "Oração",
+          "title": "Terço",
+          "description": "na Grutinha"
+        },
+        {
+          "time": "19h30",
+          "type": "Missa",
+          "title": "Santa Missa",
+          "description": "na Grutinha"
+        }
+      ]
+    },
+    {
+      "day": "Terça-feira",
+      "dayOfWeek": 1,
+      "backgroundImage": "sagrado.jpg",
+      "events": [
+        {
+          "time": "07h15",
+          "type": "Missa",
+          "title": "Santa Missa"
+        },
+        {
+          "time": "19h30",
+          "type": "Curso",
+          "title": "Curso Tecendo o Fio de Ouro"
+        }
+      ]
+    },
+    {
+      "day": "Quarta-feira",
+      "dayOfWeek": 2,
+      "backgroundImage": "imaculada.jpg",
+      "events": [
+        {
+          "time": "07h15",
+          "type": "Missa",
+          "title": "Santa Missa"
+        },
+        {
+          "time": "15h00",
+          "type": "Confissão",
+          "title": "Confissão",
+          "description": "até as fichas encerrarem"
+        }
+      ]
+    },
+    {
+      "day": "Quinta-feira",
+      "dayOfWeek": 3,
+      "backgroundImage": "adoracao.jpg",
+      "events": [
+        {
+          "time": "18h00",
+          "type": "Oração",
+          "title": "Oração do Rosário"
+        },
+        {
+          "time": "19h00",
+          "type": "Missa",
+          "title": "Missa e Adoração ao Santíssimo"
+        }
+      ]
+    },
+    {
+      "day": "Sexta-feira",
+      "dayOfWeek": 4,
+      "backgroundImage": "cruz.jpg",
+      "events": [
+        {
+          "time": "07h15",
+          "type": "Missa",
+          "title": "Santa Missa"
+        },
+        {
+          "time": "15h00",
+          "type": "Confissão",
+          "title": "Confissão",
+          "description": "até as fichas encerrarem"
+        }
+      ]
+    },
+    {
+      "day": "Sábado",
+      "dayOfWeek": 5,
+      "backgroundImage": "perpetuo-socorro.jpg",
+      "events": [
+        {
+          "time": "18h20",
+          "type": "Ofício",
+          "title": "Ofício da Imaculada"
+        },
+        {
+          "time": "19h00",
+          "type": "Missa",
+          "title": "Santa Missa"
+        }
+      ]
+    },
+    {
+      "day": "Domingo",
+      "dayOfWeek": 6,
+      "backgroundImage": "bom-pastor.jpg",
+      "events": [
+        {
+          "time": "08h00",
+          "type": "Missa",
+          "title": "Santa Missa"
+        },
+        {
+          "time": "10h00",
+          "type": "Missa",
+          "title": "Santa Missa"
+        },
+        {
+          "time": "17h00",
+          "type": "Missa",
+          "title": "Santa Missa"
+        },
+        {
+          "time": "19h00",
+          "type": "Missa",
+          "title": "Santa Missa"
+        }
+      ]
+    }
+  ]
+}
