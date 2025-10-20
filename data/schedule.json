@@ -6,16 +6,9 @@
       "backgroundImage": "maria-e-jesus.jpg",
       "events": [
         {
-          "time": "19h00",
-          "type": "Oração",
-          "title": "Terço",
-          "description": "na Grutinha"
-        },
-        {
           "time": "19h30",
           "type": "Missa",
-          "title": "Santa Missa",
-          "description": "na Grutinha"
+          "title": "Terço dos Homens"
         }
       ]
     },
