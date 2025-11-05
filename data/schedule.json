@@ -38,6 +38,12 @@
           "time": "07h15",
           "type": "Missa",
           "title": "Santa Missa"
+        },
+        {
+          "time": "15h00",
+          "type": "Confissão",
+          "title": "Confissão",
+          "description": "até as fichas encerrarem"
         }
       ]
     },
@@ -64,15 +70,16 @@
       "backgroundImage": "cruz.jpg",
       "events": [
         {
-          "time": "07h15",
-          "type": "Missa",
-          "title": "Santa Missa"
-        },
-        {
           "time": "15h00",
           "type": "Confissão",
           "title": "Confissão",
           "description": "até as fichas encerrarem"
+        },
+        {
+          "time": "19h00",
+          "type": "Missa",
+          "title": "Santa Missa",
+          "description": "em honra ao Sagrado Coração de Jesus"
         }
       ]
     },
@@ -81,6 +88,12 @@
       "dayOfWeek": 5,
       "backgroundImage": "perpetuo-socorro.jpg",
       "events": [
+        {
+          "time": "15h00",
+          "title": "Formação de Pais e Padrinhos",
+          "type": "Curso",
+          "description": "para o batismo"
+        },
         {
           "time": "18h20",
           "type": "Ofício",
